@@ -23,10 +23,14 @@
 >   - try:, except:, else:, finally:.
 > - Modules and libraries
 > - Object Oriented Programming (OOP)
->   - gained experience and knowledge about different concepts like
->         1. inheritance  -> Multiple Level of inheritance (OOD)
->         2. Polymorphism  -> overriding vs. overloading
->         3. Encapsulation -> Private variables and setters and getters
+>   - gained experience and knowledge about different concepts like:
+>
+>         1. inheritance  -> Multiple Level of inheritance (OOD).
+>
+>         2. Polymorphism  -> overriding vs. overloading.
+>
+>         3. Encapsulation -> Private variables and setters and getters.
+>
 >         4. Abstraction -> take a hint about Singleton pattern (design pattern)
 >
 
