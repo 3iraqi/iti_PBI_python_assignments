@@ -33,7 +33,7 @@ child_1 =Child()
 child_1.here() 
 ```
 
-output:
+### output-1
 
 ```plaintext
 I am a parent 1 
@@ -71,6 +71,12 @@ class Child(Parent_2, Parent_3):
 child_1 =Child()
 
 child_1.here() 
+```
+
+### output-2
+
+```plaintext
+I am a parent 2 
 ```
 
 > Here The child call the first parent if it found the instance method execute it. if not it goes to the next parent and so on to find the instance method and execute it.
