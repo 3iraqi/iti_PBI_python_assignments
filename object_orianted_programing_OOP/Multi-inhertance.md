@@ -1,9 +1,8 @@
 # Multi-inheritance Mechanism in Python
 
-## Example 1:
+## Example 1
 
 When a class is derived from `more than one base class` it is called multiple Inheritance. The _`derived class`_ inherits `all the features` of the base case.
-
 
 ```mermaid
 graph TD
@@ -41,12 +40,12 @@ I am a parent 1
 
 ```
 
-## Example 2:
+## Example 2
 
 ```mermaid
 graph TD
-    A[Parent 1] --> B[Child]
-    A[Parent 1] --> C[Child]
+    A[Parent 1] --> B[Parent 2]
+    A[Parent 1] --> C[Parent 3]
     B[Parent 2] --> D[Child]
     C[Parent 3] --> D[Child]
 
